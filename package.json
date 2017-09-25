@@ -1,0 +1,13 @@
+{
+  "name": "tweetbot",
+  "version": "1.0.0",
+  "description": "twitter bot test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
